@@ -1,5 +1,5 @@
 import java.lang.Math;
-public class Main {
+public class StockPriceCalculator {
     public int getMaxProfit(int[] stockPricesYesterday)
     {
     if (stockPricesYesterday.length < 2) {
